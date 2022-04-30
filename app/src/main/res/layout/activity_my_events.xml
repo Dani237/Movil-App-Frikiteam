@@ -21,10 +21,12 @@
         android:id="@+id/tvEvent"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginBottom="10dp"
         android:text="@string/mis_eventos"
         android:textColor="#715C95"
         android:textSize="30sp"
+        app:layout_constraintBottom_toTopOf="@+id/rvEvent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/ivTitle" />
@@ -33,13 +35,24 @@
         android:id="@+id/btAddEvent"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="150dp"
+        android:layout_marginTop="20dp"
         android:backgroundTint="#951BAA"
         android:text="@string/agregar_evento"
         android:textColor="#FFFFFF"
-        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintHorizontal_bias="0.535"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/rvEvent" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvEvent"
+        android:layout_width="409dp"
+        android:layout_height="367dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvEvent" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
