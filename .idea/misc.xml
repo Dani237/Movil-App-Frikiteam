@@ -3,6 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Sebastian Sasaki/Documents/UPC/Septimo Ciclo/Aplicaciones moviles/Proyecto App Movil/Movil-App-Frikiteam/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Sebastian Sasaki/Documents/UPC/Septimo Ciclo/Aplicaciones moviles/Proyecto App Movil/Movil-App-Frikiteam/app/src/main/res/drawable/button_rounded.xml" value="0.1" />
+        <entry key="..\:/Users/Sebastian Sasaki/Documents/UPC/Septimo Ciclo/Aplicaciones moviles/Proyecto App Movil/Movil-App-Frikiteam/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2775" />
+        <entry key="..\:/Users/Sebastian Sasaki/Documents/UPC/Septimo Ciclo/Aplicaciones moviles/Proyecto App Movil/Movil-App-Frikiteam/app/src/main/res/drawable/main_activity_rounded.xml" value="0.1" />
+        <entry key="..\:/Users/Sebastian Sasaki/Documents/UPC/Septimo Ciclo/Aplicaciones moviles/Proyecto App Movil/Movil-App-Frikiteam/app/src/main/res/drawable/new_user_registered_drawable.xml" value="0.1" />
+        <entry key="..\:/Users/Sebastian Sasaki/Documents/UPC/Septimo Ciclo/Aplicaciones moviles/Proyecto App Movil/Movil-App-Frikiteam/app/src/main/res/drawable/register_layout_rounded.xml" value="0.1" />
+        <entry key="..\:/Users/Sebastian Sasaki/Documents/UPC/Septimo Ciclo/Aplicaciones moviles/Proyecto App Movil/Movil-App-Frikiteam/app/src/main/res/drawable/register_tv_design.xml" value="0.1" />
+        <entry key="..\:/Users/Sebastian Sasaki/Documents/UPC/Septimo Ciclo/Aplicaciones moviles/Proyecto App Movil/Movil-App-Frikiteam/app/src/main/res/layout/activity_login_users.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Sebastian Sasaki/Documents/UPC/Septimo Ciclo/Aplicaciones moviles/Proyecto App Movil/Movil-App-Frikiteam/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Sebastian Sasaki/Documents/UPC/Septimo Ciclo/Aplicaciones moviles/Proyecto App Movil/Movil-App-Frikiteam/app/src/main/res/layout/activity_my_events.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Sebastian Sasaki/Documents/UPC/Septimo Ciclo/Aplicaciones moviles/Proyecto App Movil/Movil-App-Frikiteam/app/src/main/res/layout/activity_register_users.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Sebastian Sasaki/Documents/UPC/Septimo Ciclo/Aplicaciones moviles/Proyecto App Movil/Movil-App-Frikiteam/app/src/main/res/layout/new_user_registered.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Sebastian Sasaki/Documents/UPC/Septimo Ciclo/Aplicaciones moviles/Proyecto App Movil/Movil-App-Frikiteam/app/src/main/res/layout/spinner_item_customized.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Sebastian Sasaki/Documents/UPC/Septimo Ciclo/Aplicaciones moviles/Proyecto App Movil/Movil-App-Frikiteam/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/FindEvents/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.206" />
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/FindEvents/app/src/main/res/drawable/background_app.xml" value="0.206" />
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/FindEvents/app/src/main/res/drawable/button_rounded.xml" value="0.206" />
