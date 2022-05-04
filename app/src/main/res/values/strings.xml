@@ -18,6 +18,11 @@
     <string name="register">Register</string>
     <string name="mis_eventos">Mis Eventos</string>
     <string name="agregar_evento">Agregar Evento</string>
+    <string name="nameEvent">nameEvent</string>
+    <string name="information">information</string>
+    <string name="eventos_momentaneos">Eventos momentaneos</string>
+    <string name="nameEventFriki">TextView</string>
+    <string name="info">TextView</string>
 
     <string-array name="user_type">
         <item>Tipo de usuario</item>
