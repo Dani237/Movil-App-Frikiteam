@@ -5,6 +5,7 @@ import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
+
 class my_events : AppCompatActivity() {
     var events = ArrayList<Event>()
 
@@ -31,3 +32,5 @@ class my_events : AppCompatActivity() {
         events.add(Event("Friki Festival", "Feria dirigida a los amantes de la cultura oriental,Manga y anime."))
     }
 }
+
+//Add the option for search an event
