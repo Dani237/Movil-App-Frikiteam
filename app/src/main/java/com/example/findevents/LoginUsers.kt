@@ -26,6 +26,10 @@ class LoginUsers : AppCompatActivity() {
         R.layout.spinner_item_customized, lista)
 
         spinner.adapter = adaptador
+        val btLogin=findViewById<Button>(R.id.btLogin)
+        btLogin.setOnClickListener {
+            toFriki()
+        }
 
     }
 
@@ -36,5 +40,11 @@ class LoginUsers : AppCompatActivity() {
 
         }
         startActivity(intent)
+    }
+    fun toFriki(){
+        val intentFriki=Intent(this,MainFriki::class.java).apply {
+
+        }
+        startActivity(intentFriki)
     }
 }

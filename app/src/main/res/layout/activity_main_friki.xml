@@ -15,7 +15,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="376dp"
         android:text="@string/eventos_momentaneos"
-        android:textColor="#673AB7"
+        android:textColor="#65295F"
         android:textSize="22sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

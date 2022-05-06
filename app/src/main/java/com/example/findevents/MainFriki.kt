@@ -61,6 +61,6 @@ class MainFriki : AppCompatActivity() {
     }
     fun loadsEventsFriki(){
         eventsFriki.add(EventFriki("FrikiFestival","Feria dirigida a los amantes de la cultura oriental,Manga y anime.","https://i.ytimg.com/vi/b3u8fSnCFzY/maxresdefault.jpg"))
-        eventsFriki.add(EventFriki("OtakuFest","Feria dirigida a los amantes de la cultura oriental,Manga y anime.","https://i.ytimg.com/vi/b3u8fSnCFzY/maxresdefault.jpg"))
+        eventsFriki.add(EventFriki("OtakuFest","Feria dirigida a los amantes de la cultura oriental,Manga y anime.","https://viveloensaltillo.com/wp-content/uploads/2020/01/otaku-fest-1080x855px-.png"))
     }
 }
